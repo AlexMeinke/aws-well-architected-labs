@@ -4,7 +4,7 @@ menutitle: "AWS Incident Response Day"
 date: 2020-04-24T11:16:08-04:00
 chapter: false
 weight: 3
-description: "This quest is the guide for incident response workshop often ran at AWS led events."
+description: "This quest is the guide for incident response workshop often run at AWS led events."
 ---
 
 ## About this Guide
